@@ -1,0 +1,2 @@
+1. logout di header_sb.php belum berfungsi
+    - mungkin karena belum ada $data
